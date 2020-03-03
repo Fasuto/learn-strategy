@@ -1,6 +1,6 @@
 <?php
 
-namespace Fasuto\Learn\Interfaces;
+namespace Fasuto\Strategy\Interfaces;
 
 interface BookInterface
 {

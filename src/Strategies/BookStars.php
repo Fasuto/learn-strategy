@@ -1,10 +1,10 @@
 <?php
 
-namespace Fasuto\Learn\Strategies;
+namespace Fasuto\Strategy\Strategies;
 
 include_once __DIR__.'/../Interfaces/BookInterface.php';
 
-use Fasuto\Learn\interfaces\BookInterface;
+use Fasuto\Strategy\interfaces\BookInterface;
 
 class BookStars implements BookInterface{
     public function showTitle($book)

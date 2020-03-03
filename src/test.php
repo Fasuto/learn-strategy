@@ -3,8 +3,8 @@
 include_once __DIR__.'/Models/Book.php';
 include_once __DIR__.'/Contexts/BookContext.php';
 
-use Fasuto\Learn\Models\Book;
-use Fasuto\Learn\Contexts\BookContext;
+use Fasuto\Strategy\Models\Book;
+use Fasuto\Strategy\Contexts\BookContext;
 
 $book = new Book('Learn Strategy Pattern','SourceMaking');
 

@@ -8,7 +8,8 @@
   },
   "autoload": {
     "psr-4": {
-      "Fasuto\\Learn\\": "src"    }
+      "Fasuto\\Strategy\\": "src"
+    }
   },
   "minimum-stability": "dev",
   "prefer-stable": true

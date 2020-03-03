@@ -1,6 +1,6 @@
 <?php
 
-namespace Fasuto\Learn\Models;
+namespace Fasuto\Strategy\Models;
 
 class Book
 {

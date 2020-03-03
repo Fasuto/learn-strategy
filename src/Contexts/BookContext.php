@@ -1,14 +1,14 @@
 <?php
 
-namespace Fasuto\Learn\Contexts;
+namespace Fasuto\Strategy\Contexts;
 
 include_once __DIR__.'/../Strategies/BookCaps.php';
 include_once __DIR__.'/../Strategies/BookExclaim.php';
 include_once __DIR__.'/../Strategies/BookStars.php';
 
-use Fasuto\Learn\Strategies\BookCaps;
-use Fasuto\Learn\Strategies\BookExclaim;
-use Fasuto\Learn\Strategies\BookStars;
+use Fasuto\Strategy\Strategies\BookCaps;
+use Fasuto\Strategy\Strategies\BookExclaim;
+use Fasuto\Strategy\Strategies\BookStars;
 
 class BookContext
 {
